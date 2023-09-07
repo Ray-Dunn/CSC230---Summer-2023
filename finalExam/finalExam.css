@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    font-size: 16pt;
+    background-color: darksalmon;
+    width: 85%;
+    margin: auto;
+}
+header, h1 {
+    font-size: 36pt;
+    margin: 35px 0px 0px 0px;
+    padding: 15px 0px 0px 15px;
+    background-color:bisque;
+}
+header, h3 {
+    font-size: 24pt;
+    margin: 0px;
+    padding: 0px 0px 15px 15px;
+    background-color: bisque;
+}
+h1 {
+    font-family: Arial;
+    font-size: 22pt;
+    text-align: left;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding: 15px 0px 0px 15px;
+    background-color:darkorange;
+}
+h3 {
+    font-family: Arial;
+    font-size: 16pt;
+    text-align: left;
+    background-color:orange;
+}
+p {
+    margin: 15px;
+    padding: 15px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color:lightblue;
+}
+table {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 90%;
+    margin-left: 30px;
+}
+nav {
+    background-color:bisque;
+    color:black;
+    text-align: center;
+    width: 25%;
+    margin: 0px;
+    padding: 0px;
+    height: 150%;
+}
+section {
+    background-color:blanchedalmond;
+    padding: 15px;
+    height: 200%;
+    width: 75%;
+}
+th {
+    font-style: oblique;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+tr {
+    color: black;
+    text-align: left;
+}
+img {
+    width: 300px;
+    float: right;
+}
